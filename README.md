@@ -19,8 +19,9 @@ npm install
 
 ## Screenshots
 
-<img width="499" alt="Screenshot 2023-06-25 at 5 58 41 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/0c0081d9-db7a-4744-aae7-aa5d7181aa16" />
+![image](https://github.com/ilya-rodin/promptopia/assets/85010136/efca3a59-de71-49fe-be8d-e4d3373d00cd)
 
+<img width="499" alt="Screenshot 2023-06-25 at 5 58 41 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/0c0081d9-db7a-4744-aae7-aa5d7181aa16" />
 
 <img width="1469" alt="Screenshot 2023-06-25 at 5 58 28 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/05586da8-3818-4958-993f-be57c0be9704">
 
