@@ -1,4 +1,4 @@
-# [Promptopia](https://promptopia-kvdr67d9q-ilya-rodin.vercel.app/)
+# [Promptopia](https://promptopia-social.vercel.app/)
 
 Promptopia is a fullstack social network in which users can register, create, edit and delete posts, as well as watch other people's posts.
 
