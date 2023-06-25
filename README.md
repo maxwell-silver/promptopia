@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [Promptopia](https://promptopia-kvdr67d9q-ilya-rodin.vercel.app/)
 
-## Getting Started
+Promptopia is a fullstack social network in which users can register, create, edit and delete posts, as well as watch other people's posts.
 
-First, run the development server:
+The project was made using the most modern frontend and backend technologies: Next.js, React, MongoDB
 
+## Install
+
+To deploy the project locally, you will need to download it first:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+git clone https://github.com/ilya-rodin/promptopia.git
+cd promptopia
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+And then install all dependencies by running the command:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Screenshots
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img width="499" alt="Screenshot 2023-06-25 at 5 58 41 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/0c0081d9-db7a-4744-aae7-aa5d7181aa16" />
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+<img width="1469" alt="Screenshot 2023-06-25 at 5 58 28 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/05586da8-3818-4958-993f-be57c0be9704">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img width="500" alt="Screenshot 2023-06-25 at 5 58 11 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/13cd5a5c-6eea-4e95-8053-f5398eb1f053">
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img width="1470" alt="Screenshot 2023-06-25 at 5 57 57 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/d10e9662-cbab-4711-a857-bf44a90d77a6">
 
-## Deploy on Vercel
+<img width="498" alt="Screenshot 2023-06-25 at 5 57 26 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/6b652190-73d0-43f3-ad60-10320d1c662e">
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<img width="1469" alt="Screenshot 2023-06-25 at 5 56 50 PM" src="https://github.com/ilya-rodin/promptopia/assets/85010136/1c3d2748-dda9-4c6a-9000-f068fec313b3">
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
