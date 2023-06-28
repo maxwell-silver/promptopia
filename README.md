@@ -6,13 +6,11 @@ The project was made using the most modern frontend and backend technologies: Ne
 
 ## Install
 
-To deploy the project locally, you will need to download it first:
 ```bash
 git clone https://github.com/ilya-rodin/promptopia.git
 cd promptopia
 ```
 
-And then install all dependencies by running the command:
 ```bash
 npm install
 ```
